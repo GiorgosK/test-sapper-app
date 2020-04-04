@@ -62,3 +62,7 @@
 <div class='content'>
 	{@html post.html}
 </div>
+
+<div class='back-link'>
+	<a href='/blog'>Back to blog index</a>
+</div>
